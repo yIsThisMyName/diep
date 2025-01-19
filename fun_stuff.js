@@ -8,3 +8,4 @@ document.body.onmouseup = function() {
         extern.onKeyUp(64);
     }
 }
+console.log("stupid script");
